@@ -1,0 +1,158 @@
+body{
+	background-image: url(../slike/pozadina1.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: 100% auto;
+	background-color: black;
+	margin: 20px 130px;
+	border: 9px groove #DAA520;
+	margin-bottom: 2px;
+	color: #CFB53B;
+	padding: 10px;
+	padding-bottom:75px;
+	font-family: georgia;
+	padding-right: 270px;
+	}
+	
+/**Ovo je css dodjela**/
+a:link {
+    color: #3B170B;
+	text-decoration: none;
+	}
+
+
+a:visited {
+    color: #3B170B;
+	text-decoration: none;
+	}
+
+
+a:hover {
+    color: #3B170B;
+	text-decoration: none;
+	}
+
+
+a:active {
+    color: #3B170B;
+	text-decoration: none;
+	}
+	
+	
+h2{
+	position: relative;
+	float: right;
+	right: 20px;
+	top: 40px;
+	font-size: 24px;
+	}
+	
+pre{
+	font-family: georgia;
+	font-size: 14px;
+	white-space: 0,5em;
+	}
+	
+.header{
+	width:auto;
+	height: auto;
+	}
+	
+.host{
+	position:absolute;
+	top: 140px;
+	right: 240px;
+	}
+	
+.izbornik1-1{
+	border: 5px groove #CD853F;
+	padding: 5px;
+	position: fixed;
+	background-color: #DAA520;
+	color: #8B4513;
+	left: 5px;
+	top: 200px;
+	text-align: center;
+	width: 95px;
+	font-weight: bold;
+	font-family: times new roman;
+	}
+	
+.izbornik1-2{
+	border: 5px groove #CD853F;
+	padding: 5px;
+	position: fixed;
+	background-color: #DAA520;
+	color: #8B4513;
+	left: 5px;
+	top: 280px;
+	text-align: center;
+	width: 95px;
+	font-weight: bold;
+	}
+	
+.izbornik1-3{
+	border: 5px groove #CD853F;
+	padding: 5px;
+	position: fixed;
+	background-color: #DAA520;
+	color: #8B4513;
+	left: 5px;
+	top: 360px;
+	text-align: center;
+	width: 95px;
+	font-weight: bold;
+	}
+
+	
+.izbornik2-1{
+	border: 5px groove #CD853F;
+	padding: 5px;
+	position: fixed;
+	background-color: #DAA520;
+	color: #8B4513;
+	right: 5px;
+	top: 200px;
+	text-align: center;
+	width: 95px;
+	font-weight: bold;
+	}
+	
+.izbornik2-2{	border: 5px groove #CD853F;
+	padding: 5px;
+	position: fixed;
+	background-color: #DAA520;
+	color: #8B4513;
+	right: 5px;
+	top: 280px;
+	text-align: center;
+	width: 95px;
+	font-weight: bold;
+	}
+
+	
+.izbornik2-3{
+	border: 5px groove #CD853F;
+	padding: 5px;
+	position: fixed;
+	background-color: #A0522D;
+	color: #DAA520;
+	right: 5px;
+	top: 360px;
+	text-align: center;
+	width: 95px;
+	font-weight: bold;
+	font-family: times new roman;
+	}
+	
+img{
+	height: 200px;
+	width: auto;
+	}
+	
+table tr, td{
+	text-align: left;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 50px 80px;
+	}
